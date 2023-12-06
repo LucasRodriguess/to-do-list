@@ -1,0 +1,15 @@
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.csproj.AssemblyReference.cache
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.AssemblyInfoInputs.cache
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.AssemblyInfo.cs
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.csproj.CoreCompileInputs.cache
+C:\Estudos-Desenvolvimento\to-do-list\bin\Debug\net8.0\to-do-list.exe
+C:\Estudos-Desenvolvimento\to-do-list\bin\Debug\net8.0\to-do-list.deps.json
+C:\Estudos-Desenvolvimento\to-do-list\bin\Debug\net8.0\to-do-list.runtimeconfig.json
+C:\Estudos-Desenvolvimento\to-do-list\bin\Debug\net8.0\to-do-list.dll
+C:\Estudos-Desenvolvimento\to-do-list\bin\Debug\net8.0\to-do-list.pdb
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.dll
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\refint\to-do-list.dll
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.pdb
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\to-do-list.genruntimeconfig.cache
+C:\Estudos-Desenvolvimento\to-do-list\obj\Debug\net8.0\ref\to-do-list.dll
