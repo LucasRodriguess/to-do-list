@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj": {}
+    "c:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj": {}
   },
   "projects": {
-    "C:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj": {
+    "c:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj",
+        "projectUniqueName": "c:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj",
         "projectName": "to-do-list",
-        "projectPath": "C:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj",
+        "projectPath": "c:\\Estudos-Desenvolvimento\\to-do-list\\to-do-list.csproj",
         "packagesPath": "C:\\Users\\jesiel.silva.NT\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos-Desenvolvimento\\to-do-list\\obj\\",
+        "outputPath": "c:\\Estudos-Desenvolvimento\\to-do-list\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesiel.silva.NT\\AppData\\Roaming\\NuGet\\NuGet.Config"
